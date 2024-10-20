@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-20T09:16:15 IST" name="Master Suite" finished-at="2024-10-20T09:16:31 IST" duration-ms="16315">
+    <groups>
+      <group name="Master">
+        <method signature="TC0001_AccountRegistrationTest.User_Account_Registration_Process()[pri:0, instance:testCases.TC0001_AccountRegistrationTest@6f1de4c7]" name="User_Account_Registration_Process" class="testCases.TC0001_AccountRegistrationTest"/>
+        <method signature="TC0002_LoginTest.verify_login()[pri:0, instance:testCases.TC0002_LoginTest@368f2016]" name="verify_login" class="testCases.TC0002_LoginTest"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="TC0002_LoginTest.verify_login()[pri:0, instance:testCases.TC0002_LoginTest@368f2016]" name="verify_login" class="testCases.TC0002_LoginTest"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="TC0001_AccountRegistrationTest.User_Account_Registration_Process()[pri:0, instance:testCases.TC0001_AccountRegistrationTest@6f1de4c7]" name="User_Account_Registration_Process" class="testCases.TC0001_AccountRegistrationTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2024-10-20T09:16:15 IST" name="Test" finished-at="2024-10-20T09:16:31 IST" duration-ms="16315">
+      <class name="testCases.TC0001_AccountRegistrationTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC0001_AccountRegistrationTest@6f1de4c7]" started-at="2024-10-20T09:16:15 IST" name="setup" finished-at="2024-10-20T09:16:21 IST" duration-ms="5616" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="User_Account_Registration_Process()[pri:0, instance:testCases.TC0001_AccountRegistrationTest@6f1de4c7]" started-at="2024-10-20T09:16:21 IST" name="User_Account_Registration_Process" finished-at="2024-10-20T09:16:24 IST" duration-ms="3507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_Account_Registration_Process -->
+        <test-method is-config="true" signature="drainout()[pri:0, instance:testCases.TC0001_AccountRegistrationTest@6f1de4c7]" started-at="2024-10-20T09:16:24 IST" name="drainout" finished-at="2024-10-20T09:16:25 IST" duration-ms="375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drainout -->
+      </class> <!-- testCases.TC0001_AccountRegistrationTest -->
+      <class name="testCases.TC0002_LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC0002_LoginTest@368f2016]" started-at="2024-10-20T09:16:25 IST" name="setup" finished-at="2024-10-20T09:16:29 IST" duration-ms="4209" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_login()[pri:0, instance:testCases.TC0002_LoginTest@368f2016]" started-at="2024-10-20T09:16:29 IST" name="verify_login" finished-at="2024-10-20T09:16:31 IST" duration-ms="1830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login -->
+        <test-method is-config="true" signature="drainout()[pri:0, instance:testCases.TC0002_LoginTest@368f2016]" started-at="2024-10-20T09:16:31 IST" name="drainout" finished-at="2024-10-20T09:16:31 IST" duration-ms="337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drainout -->
+      </class> <!-- testCases.TC0002_LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Master Suite -->
+</testng-results>

@@ -1,0 +1,19 @@
+2024-10-20 08:43:17.341 [main] INFO  testCases.TC0001_AccountRegistrationTest - ***Log Finished TC0001_AccountRegistrationTest***
+2024-10-20 08:43:21.944 [main] INFO  testCases.TC0002_LoginTest - ***Starting TC0002_LoginTest***
+2024-10-20 08:43:23.858 [main] INFO  testCases.TC0002_LoginTest - ***Finished TC0002_LoginTest***
+2024-10-20 09:05:59.593 [main] INFO  testCases.TC0001_AccountRegistrationTest - ***Log Started TC0001_AccountRegistrationTest***
+2024-10-20 09:05:59.788 [main] INFO  testCases.TC0001_AccountRegistrationTest - Clicked to MyAccount...
+2024-10-20 09:06:00.574 [main] INFO  testCases.TC0001_AccountRegistrationTest - Clicked to Register...
+2024-10-20 09:06:00.579 [main] INFO  testCases.TC0001_AccountRegistrationTest - Entered Registration details..
+2024-10-20 09:06:02.492 [main] INFO  testCases.TC0001_AccountRegistrationTest - Verifying Expected Message..
+2024-10-20 09:06:02.573 [main] INFO  testCases.TC0001_AccountRegistrationTest - ***Log Finished TC0001_AccountRegistrationTest***
+2024-10-20 09:06:06.713 [main] INFO  testCases.TC0002_LoginTest - ***Starting TC0002_LoginTest***
+2024-10-20 09:06:08.672 [main] INFO  testCases.TC0002_LoginTest - ***Finished TC0002_LoginTest***
+2024-10-20 09:16:21.214 [main] INFO  testCases.TC0001_AccountRegistrationTest - ***Log Started TC0001_AccountRegistrationTest***
+2024-10-20 09:16:21.493 [main] INFO  testCases.TC0001_AccountRegistrationTest - Clicked to MyAccount...
+2024-10-20 09:16:22.483 [main] INFO  testCases.TC0001_AccountRegistrationTest - Clicked to Register...
+2024-10-20 09:16:22.491 [main] INFO  testCases.TC0001_AccountRegistrationTest - Entered Registration details..
+2024-10-20 09:16:24.612 [main] INFO  testCases.TC0001_AccountRegistrationTest - Verifying Expected Message..
+2024-10-20 09:16:24.693 [main] INFO  testCases.TC0001_AccountRegistrationTest - ***Log Finished TC0001_AccountRegistrationTest***
+2024-10-20 09:16:29.329 [main] INFO  testCases.TC0002_LoginTest - ***Starting TC0002_LoginTest***
+2024-10-20 09:16:31.154 [main] INFO  testCases.TC0002_LoginTest - ***Finished TC0002_LoginTest***
